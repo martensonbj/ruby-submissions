@@ -10,7 +10,7 @@
 #### Beth Sebian
 
 * GitHub Repo: https://github.com/bethsebian/code_challenge
-* Pig Latin Repo:
+* Pig Latin Repo: 
 * Event Reporter Repo: 
 
 #### Brant Wellman
@@ -21,9 +21,9 @@
 
 #### Brenna Martenson
 
-* GitHub Repo: https://github.com/martensonbj/code_challenges.git
-* Pig Latin Repo:
-* Event Reporter Repo:
+* GitHub Repo: https://github.com/martensonbj/swift_stats
+* Pig Latin Repo: https://github.com/martensonbj/pig_latin
+* Mario Repo: https://github.com/martensonbj/plummer
 
 #### Dan Winter
 
