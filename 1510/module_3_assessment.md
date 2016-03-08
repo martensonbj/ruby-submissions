@@ -3,7 +3,7 @@ Please submit a link to your repo:
 * Aaron Greenspan:
 * Beth Sebian:
 * Brant Wellman:
-* Brenna Martenson:
+* Brenna Martenson: https://github.com/martensonbj/module_3_assessment
 * Cole Hall:
 * Dan Winter: https://github.com/danjwinter/module_3_assessment
 * David Stinnette:
